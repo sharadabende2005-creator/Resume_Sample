@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    border: border-box;
+}
+
+header {
+    text-align: center;
+}
+
+h4 {
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+margin-bottom: 5px;
+margin-top: 0px;
+}
+
+
+.first ul{
+    display: flex;
+    justify-content:space-evenly
+
+}
+
+#para1 {
+    margin-bottom: 10px;
+}
+
+#para2 {
+    margin-bottom: 5px;
+}
+
+#para3 {
+    margin-bottom: 5px;
+}
+
+
